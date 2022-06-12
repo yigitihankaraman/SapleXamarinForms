@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/Orliz5lgiNzINe4/Z/7WtdX1nk4Y6h9WKKKWjJjtonoZv9+U2RhQeXH0t286e9hyFuEAq9ic/L65ms1vIuuw==",
+  "success": true,
+  "projectFilePath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\SplashScreen\\SplashScreen\\SplashScreen.iOS\\SplashScreen.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yigit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
