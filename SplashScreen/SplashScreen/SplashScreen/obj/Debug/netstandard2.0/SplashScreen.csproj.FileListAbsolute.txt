@@ -1,0 +1,15 @@
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\bin\Debug\netstandard2.0\SplashScreen.deps.json
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\bin\Debug\netstandard2.0\SplashScreen.dll
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\bin\Debug\netstandard2.0\SplashScreen.pdb
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.csproj.AssemblyReference.cache
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.GeneratedMSBuildEditorConfig.editorconfig
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.AssemblyInfoInputs.cache
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.AssemblyInfo.cs
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.csproj.CoreCompileInputs.cache
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\XamlC.stamp
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.dll
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\refint\SplashScreen.dll
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.pdb
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\ref\SplashScreen.dll

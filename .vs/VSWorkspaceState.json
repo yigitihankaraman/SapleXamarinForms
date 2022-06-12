@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SplashScreen"
+    "\\PopupButton",
+    "\\PopupButton\\PopupButton"
   ],
   "PreviewInSolutionExplorer": false
 }

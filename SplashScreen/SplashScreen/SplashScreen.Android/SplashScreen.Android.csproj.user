@@ -5,5 +5,6 @@
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
     <ActiveDebugProfile>VisualStudio_android-25_x86_phone</ActiveDebugProfile>
     <DefaultDevice>VisualStudio_android-25_x86_phone</DefaultDevice>
+    <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>
