@@ -1,0 +1,15 @@
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\bin\Debug\netstandard2.0\PopupButton.deps.json
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\bin\Debug\netstandard2.0\PopupButton.dll
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\bin\Debug\netstandard2.0\PopupButton.pdb
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\PopupButton.csproj.AssemblyReference.cache
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\PopupButton.GeneratedMSBuildEditorConfig.editorconfig
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\PopupButton.AssemblyInfoInputs.cache
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\PopupButton.AssemblyInfo.cs
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\PopupButton.csproj.CoreCompileInputs.cache
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\XamlC.stamp
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\PopupButton.dll
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\refint\PopupButton.dll
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\PopupButton.pdb
+D:\YK\Yigit\Codes\GitHubFiles\SapleXamarinForms\PopupButton\PopupButton\PopupButton\obj\Debug\netstandard2.0\ref\PopupButton.dll
