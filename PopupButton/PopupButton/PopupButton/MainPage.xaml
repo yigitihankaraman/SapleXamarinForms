@@ -41,11 +41,14 @@
                     <Grid.RowDefinitions>
                         <RowDefinition Height="*" />
                         <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
                     </Grid.RowDefinitions>
                     <ImageButton Grid.Row="0" 
-                         Source="Home.png" BackgroundColor="Transparent" />
+                         Source="Btn1_30.png" BackgroundColor="Transparent" Clicked="ImageButton_Clicked_1"/>
                     <ImageButton Grid.Row="1"
-                         Source="Page.png" BackgroundColor="Transparent" />
+                         Source="Btn4_30.png" BackgroundColor="Transparent" Clicked="ImageButton_Clicked_2"/>
+                    <ImageButton Grid.Row="2"
+                         Source="Btn2_30.png" BackgroundColor="Transparent" Clicked="ImageButton_Clicked_3"/>
                 </Grid>
                
             </Grid>
