@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EMz7GsRfrWGOmNThVkf5MWsHnLxqgMm2BfdjUicj8P6k/S9mVhThWEvmrAxo6JZHYZeRZuxbVvwixNoLUzN/Yg==",
+  "success": true,
+  "projectFilePath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.iOS\\RemarkPage.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yigit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512"
+  ],
+  "logs": []
+}
