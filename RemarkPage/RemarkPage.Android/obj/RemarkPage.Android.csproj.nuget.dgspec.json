@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.Android\\RemarkPage.Android.csproj": {}
+    "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage.Android\\RemarkPage.Android.csproj": {}
   },
   "projects": {
-    "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.Android\\RemarkPage.Android.csproj": {
+    "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage.Android\\RemarkPage.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.Android\\RemarkPage.Android.csproj",
+        "projectUniqueName": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage.Android\\RemarkPage.Android.csproj",
         "projectName": "RemarkPage.Android",
-        "projectPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.Android\\RemarkPage.Android.csproj",
+        "projectPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage.Android\\RemarkPage.Android.csproj",
         "packagesPath": "C:\\Users\\yigit\\.nuget\\packages\\",
-        "outputPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.Android\\obj\\",
+        "outputPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -23,45 +23,45 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "monoandroid10.0"
+          "monoandroid11.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "monoandroid10.0": {
+          "monoandroid11.0": {
             "projectReferences": {
-              "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj": {
-                "projectPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj"
+              "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj": {
+                "projectPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj"
               }
             }
           }
         }
       },
       "frameworks": {
-        "monoandroid10.0": {
+        "monoandroid11.0": {
           "dependencies": {
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.7.1, )"
+              "version": "[1.7.3, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2337, )"
+              "version": "[5.0.0.2478, )"
             }
           }
         }
       }
     },
-    "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj": {
+    "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
+        "projectUniqueName": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
         "projectName": "RemarkPage",
-        "projectPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
+        "projectPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
         "packagesPath": "C:\\Users\\yigit\\.nuget\\packages\\",
-        "outputPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\obj\\",
+        "outputPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,11 +96,11 @@
           "dependencies": {
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.7.1, )"
+              "version": "[1.7.3, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2337, )"
+              "version": "[5.0.0.2478, )"
             }
           },
           "imports": [

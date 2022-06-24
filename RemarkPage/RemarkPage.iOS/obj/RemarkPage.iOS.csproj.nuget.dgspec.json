@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.iOS\\RemarkPage.iOS.csproj": {}
+    "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage.iOS\\RemarkPage.iOS.csproj": {}
   },
   "projects": {
-    "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.iOS\\RemarkPage.iOS.csproj": {
+    "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage.iOS\\RemarkPage.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.iOS\\RemarkPage.iOS.csproj",
+        "projectUniqueName": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage.iOS\\RemarkPage.iOS.csproj",
         "projectName": "RemarkPage.iOS",
-        "projectPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.iOS\\RemarkPage.iOS.csproj",
+        "projectPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage.iOS\\RemarkPage.iOS.csproj",
         "packagesPath": "C:\\Users\\yigit\\.nuget\\packages\\",
-        "outputPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.iOS\\obj\\",
+        "outputPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj": {
-                "projectPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj"
+              "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj": {
+                "projectPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj"
               }
             }
           }
@@ -44,11 +44,11 @@
           "dependencies": {
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.7.1, )"
+              "version": "[1.7.3, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2337, )"
+              "version": "[5.0.0.2478, )"
             }
           }
         }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj": {
+    "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
+        "projectUniqueName": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
         "projectName": "RemarkPage",
-        "projectPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
+        "projectPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
         "packagesPath": "C:\\Users\\yigit\\.nuget\\packages\\",
-        "outputPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\obj\\",
+        "outputPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -107,11 +107,11 @@
           "dependencies": {
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.7.1, )"
+              "version": "[1.7.3, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2337, )"
+              "version": "[5.0.0.2478, )"
             }
           },
           "imports": [

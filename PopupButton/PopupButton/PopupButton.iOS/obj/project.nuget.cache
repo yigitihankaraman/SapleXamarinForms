@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Oy5ePJUYsrihFYvihXdiJUEGKEqiZFhXbZYHm8bOSRBZcv0WqCO4GAJaO9UzdE/v7+jMOV3HPdAGzcxBdn6Y/w==",
+  "dgSpecHash": "Ar4amwLiTMS1L2Y1IvmMWnvkLm4lDezXnyibhrOP2VMHfyxaQwVOT+cdQxnKvtVZQVGFO/pHB9lG/aQQI77E4g==",
   "success": true,
   "projectFilePath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\PopupButton\\PopupButton\\PopupButton.iOS\\PopupButton.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yigit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
   ],
   "logs": []
 }

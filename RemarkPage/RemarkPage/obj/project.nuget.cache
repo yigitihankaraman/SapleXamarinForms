@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "eqyQcJIaUZgr87f1X52bKe0sdcyfblEjJiAfWWEv65cMhQoS7NHnGV3u7JGcw94EjPlKFlS70T3SAiyq1eQ2UQ==",
+  "dgSpecHash": "g2CRPYY+sMGcXCfMpqWqWTaeLHPXChl0JUzRFx3hfCJ2Wh/76LGviGWAAHaq0K8FhpwhSnjif2ENQi746um9Mg==",
   "success": true,
-  "projectFilePath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
+  "projectFilePath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yigit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
-    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512"
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
   ],
   "logs": []
 }

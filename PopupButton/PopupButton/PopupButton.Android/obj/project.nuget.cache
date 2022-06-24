@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "njCTk/VLPHAcYjUpGMFKxqin8BWCSBxgSgPXamyr80Pjv7+oa82dYniqmEM/6/rNAC24dFzAgLMAp091ngyL/g==",
+  "dgSpecHash": "KXlHVUB7e35UytHCtwxCW0Tl2vIUKR8igJs2Y6H8qBBwxSimCB9gPSY9qmjAhJmGlrH512NEWMsJKVd1VekPaA==",
   "success": true,
   "projectFilePath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\PopupButton\\PopupButton\\PopupButton.Android\\PopupButton.Android.csproj",
   "expectedPackageFiles": [
@@ -58,8 +58,8 @@
     "C:\\Users\\yigit\\.nuget\\packages\\xamarin.androidx.versionedparcelable\\1.1.1.8\\xamarin.androidx.versionedparcelable.1.1.1.8.nupkg.sha512",
     "C:\\Users\\yigit\\.nuget\\packages\\xamarin.androidx.viewpager\\1.0.0.8\\xamarin.androidx.viewpager.1.0.0.8.nupkg.sha512",
     "C:\\Users\\yigit\\.nuget\\packages\\xamarin.androidx.viewpager2\\1.0.0.10\\xamarin.androidx.viewpager2.1.0.0.10.nupkg.sha512",
-    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512",
     "C:\\Users\\yigit\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "C:\\Users\\yigit\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],

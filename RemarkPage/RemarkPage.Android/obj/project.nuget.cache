@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eQq7V7Dyf1v3lcKhxjBRgIb/wnn3HdHs0rBIE3WN3qywLOzsYZdTDcvw45yhAaa11dnQsqKcnRM4mAVCBRvVnA==",
+  "dgSpecHash": "j+mXjLJbZ/uL6Xu2/Q862hfi6JkOSazuBEETXyWn360cz0cSb9228Pp9RT2d12EVqbQCR9G6SMSkhEmsD6s/vg==",
   "success": true,
-  "projectFilePath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage.Android\\RemarkPage.Android.csproj",
+  "projectFilePath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage.Android\\RemarkPage.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yigit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\yigit\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
@@ -58,8 +58,8 @@
     "C:\\Users\\yigit\\.nuget\\packages\\xamarin.androidx.versionedparcelable\\1.1.1.8\\xamarin.androidx.versionedparcelable.1.1.1.8.nupkg.sha512",
     "C:\\Users\\yigit\\.nuget\\packages\\xamarin.androidx.viewpager\\1.0.0.8\\xamarin.androidx.viewpager.1.0.0.8.nupkg.sha512",
     "C:\\Users\\yigit\\.nuget\\packages\\xamarin.androidx.viewpager2\\1.0.0.10\\xamarin.androidx.viewpager2.1.0.0.10.nupkg.sha512",
-    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.essentials\\1.7.1\\xamarin.essentials.1.7.1.nupkg.sha512",
-    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.forms\\5.0.0.2337\\xamarin.forms.5.0.0.2337.nupkg.sha512",
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\yigit\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512",
     "C:\\Users\\yigit\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
     "C:\\Users\\yigit\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],

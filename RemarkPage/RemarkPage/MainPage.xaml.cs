@@ -25,7 +25,7 @@ namespace RemarkPage
         {
             if (btn)
             {
-                await DetailPage.TranslateTo(0, 0, 600, Easing.BounceOut);
+                await DetailPage.TranslateTo(0, 30, 600, Easing.BounceOut);
                 await RemarkPage.TranslateTo(-300, 40, 300,Easing.CubicInOut);
                 await HeaderPage.TranslateTo(-200, 0, 200);
                 await imageAction.ScaleTo(1.05, 100);
@@ -39,7 +39,7 @@ namespace RemarkPage
                 await HeaderPage.TranslateTo(0, 0, 200);
                 await RemarkPage.TranslateTo(0, 40, 300,Easing.CubicInOut);
                 DetailPage.IsVisible = true;
-                await DetailPage.TranslateTo(0, -40, 600, Easing.BounceOut);
+                await DetailPage.TranslateTo(0, 0, 600, Easing.BounceOut);
                 btn = true;
             }
             

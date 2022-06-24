@@ -3,7 +3,7 @@
   <PropertyGroup>
     <SelectedDevice>VisualStudio_android-25_x86_phone</SelectedDevice>
     <DefaultDevice>VisualStudio_android-25_x86_phone</DefaultDevice>
-    <AndroidDesignerPreferredTheme>Theme.AppCompat.Light.NoActionBar</AndroidDesignerPreferredTheme>
+    <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
     <ActiveDebugProfile>VisualStudio_android-25_x86_phone</ActiveDebugProfile>
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
   </PropertyGroup>

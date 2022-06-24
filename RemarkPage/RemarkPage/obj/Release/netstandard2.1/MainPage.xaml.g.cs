@@ -17,7 +17,7 @@ namespace RemarkPage {
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamarin.Forms.ImageButton imageAction;
+        private global::Xamarin.Forms.Image imageAction;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private global::RemarkPage.Views.Header HeaderPage;
@@ -31,7 +31,7 @@ namespace RemarkPage {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
-            imageAction = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ImageButton>(this, "imageAction");
+            imageAction = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Image>(this, "imageAction");
             HeaderPage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::RemarkPage.Views.Header>(this, "HeaderPage");
             RemarkPage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::RemarkPage.Views.Remark>(this, "RemarkPage");
             DetailPage = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::RemarkPage.Views.Detail>(this, "DetailPage");

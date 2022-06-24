@@ -11,7 +11,7 @@
           "lib/netstandard2.0/System.Numerics.Vectors.dll": {}
         }
       },
-      "Xamarin.Essentials/1.7.1": {
+      "Xamarin.Essentials/1.7.3": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -23,7 +23,7 @@
           "lib/netstandard2.0/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.2337": {
+      "Xamarin.Forms/5.0.0.2478": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {},
@@ -90,10 +90,10 @@
         "version.txt"
       ]
     },
-    "Xamarin.Essentials/1.7.1": {
-      "sha512": "u7pUgvHJKTYo5ATiwRZvYviq2O0AQXIqxdna+sMxqidfWpbD7FBgFOLNAZzWKSll/AQBPeDrqLAWZNLq+ztpmQ==",
+    "Xamarin.Essentials/1.7.3": {
+      "sha512": "b6NfxOfkmMGN54a4OcV/D7KXclWWqFwgixMPzlAku3kfKgUBGW4vBdNaujIBmk57NbGpWB2IS78ek0gDHNKwoQ==",
       "type": "package",
-      "path": "xamarin.essentials/1.7.1",
+      "path": "xamarin.essentials/1.7.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -128,14 +128,14 @@
         "lib/xamarinwatchos10/Xamarin.Essentials.pdb",
         "lib/xamarinwatchos10/Xamarin.Essentials.xml",
         "readme.txt",
-        "xamarin.essentials.1.7.1.nupkg.sha512",
+        "xamarin.essentials.1.7.3.nupkg.sha512",
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/5.0.0.2337": {
-      "sha512": "2AYl2V1YHjEDEmA5d+aP382ielCKr8d/jo3zCgPSvLE/4Pw/em7pHBGmN3yZ/WzxIMV16f7wBfoFCHesMud0AA==",
+    "Xamarin.Forms/5.0.0.2478": {
+      "sha512": "UeOnndxByPTpbExq0jPL5zKYqtHN9ldsgjQfUk9XF1pWSJUIakF3nJkq/tCgCVp5E1yp9Eecgqcthzy6llKiGg==",
       "type": "package",
-      "path": "xamarin.forms/5.0.0.2337",
+      "path": "xamarin.forms/5.0.0.2478",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -344,15 +344,15 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.5.0.0.2337.nupkg.sha512",
+        "xamarin.forms.5.0.0.2478.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
-      "Xamarin.Essentials >= 1.7.1",
-      "Xamarin.Forms >= 5.0.0.2337"
+      "Xamarin.Essentials >= 1.7.3",
+      "Xamarin.Forms >= 5.0.0.2478"
     ]
   },
   "packageFolders": {
@@ -362,11 +362,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
+      "projectUniqueName": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
       "projectName": "RemarkPage",
-      "projectPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
+      "projectPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\RemarkPage.csproj",
       "packagesPath": "C:\\Users\\yigit\\.nuget\\packages\\",
-      "outputPath": "D:\\YK\\Yigit\\Codes\\Xamarin\\AnimatePage\\RemarkPage\\RemarkPage\\obj\\",
+      "outputPath": "D:\\YK\\Yigit\\Codes\\GitHubFiles\\SapleXamarinForms\\RemarkPage\\RemarkPage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -401,11 +401,11 @@
         "dependencies": {
           "Xamarin.Essentials": {
             "target": "Package",
-            "version": "[1.7.1, )"
+            "version": "[1.7.3, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[5.0.0.2337, )"
+            "version": "[5.0.0.2478, )"
           }
         },
         "imports": [
